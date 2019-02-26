@@ -112,3 +112,11 @@ window.console = (function (origConsole) {
     };
 
 }(window.console));
+
+window.onerror = function(message){
+    var isDebug = getCookie('debugJS') == true || getCookie('debugJS') == 'true' ? true : false, isSaveLog = true;
+    if(!isDebug){
+        window.console.addLog(message, 'errors');
+        return true;
+    }
+}
