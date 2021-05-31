@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e393431-b381-4a04-9821-640237f4b060" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/production-2.plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production-2.plugin.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production.plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/production.plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production.plugin.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/production.plugin.min.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +28,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -42,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1622451882421</updated>
-      <workItem from="1622451887427" duration="307000" />
+      <workItem from="1622451887427" duration="848000" />
     </task>
     <servers />
   </component>
